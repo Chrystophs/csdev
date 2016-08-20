@@ -1,0 +1,11 @@
+{
+  "name": "chris-starter-theme",
+  "version": "1.0.0",
+  "description": "=== Twenty Fifteen ===\r Contributors: the WordPress team\r Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready\r Requires at least: 4.1\r Tested up to: 4.1\r Stable tag: 4.1\r License: GPLv2 or later\r License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Schultz",
+  "license": "ISC"
+}
